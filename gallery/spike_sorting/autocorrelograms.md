@@ -7,7 +7,7 @@ image: "https://user-images.githubusercontent.com/3679296/214601002-c175588a-134
 
 # Autocorrelograms
 
-In electrophysiological spike sorting, autocorrelograms show the self-correlation in spike trains. The characteristic central dip reflects the refractory period and is important for validation.
+In electrophysiological spike sorting, autocorrelograms (and cross-correlograms) are useful for visualizing the firing patterns of neurons and can help researchers to differentiate between single-unit activity and multi-unit activity. They are essentially autocorrelation histograms for spike trains. When the spike train is pure (represents the firing activity of a single neuron), the histogram should exhibit a central dip, reflecting the refractory period for the cell.
 
 The figneuro Python package can be used to create autocorrelogram figures.
 
