@@ -1,6 +1,6 @@
 ---
 title: Autocorrelograms
-description: "Autocorrelograms show the self-correlation in spike trains. The characteristic central dip reflects the refractory period and is important for validation."
+description: "An autocorrelogram shows the auto-correlation of a spike trains. When the spike train is pure (represents the firing activity of a single neuron), the histogram should exhibit a central dip, reflecting the refractory period for the cell."
 category: spike_sorting
 image: "https://user-images.githubusercontent.com/3679296/214601002-c175588a-1344-4c21-a2c2-d6f96cf60268.png"
 ---
