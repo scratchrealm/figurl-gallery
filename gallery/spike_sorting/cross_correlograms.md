@@ -1,13 +1,13 @@
 ---
 title: Cross-correlograms
-description: "A cross-correlogram is a graphical representations of the cross-correlation between two spike trains. It is useful for analyzing the temporal relationship between the spiking activity of two units and can be useful for determining whether clusters belong to the same neuron."
+description: "A cross-correlogram is a graphical representation of the cross-correlation between two spike trains. It is useful for analyzing the temporal relationship between the spiking activity of two units and can help determine whether clusters belong to the same neuron."
 category: spike_sorting
 image: "https://user-images.githubusercontent.com/3679296/214855971-196def04-8964-4dc8-9661-95d2ead59cbc.png"
 ---
 
 # Autocorrelograms
 
-A cross-correlogram is a graphical representations of the cross-correlation between two spike trains. It is useful for analyzing the temporal relationship between the spiking activity of two units and can be useful for determining whether clusters belong to the same neuron.
+A cross-correlogram is a graphical representation of the cross-correlation between two spike trains. It is useful for analyzing the temporal relationship between the spiking activity of two units and can help determine whether clusters belong to the same neuron.
 
 The figneuro Python package can be used to create a cross-correlogram matrix figure.
 
