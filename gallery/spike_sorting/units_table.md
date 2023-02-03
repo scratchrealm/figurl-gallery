@@ -5,7 +5,7 @@ category: spike_sorting
 image: "https://user-images.githubusercontent.com/3679296/216637289-17861ae1-e6a1-4fc1-96c1-4075140d75ed.png"
 ---
 
-# Unit locations
+# Units table
 
 The units table lists the spike sorting units together with cluster quality metrics. The selection on this table is synchronized with other spike sorting views.
 
