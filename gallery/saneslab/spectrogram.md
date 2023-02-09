@@ -2,7 +2,7 @@
 title: Audio spectrogram
 description: "The audio spectrogram is a graphical representation of the frequency spectrum of an audio signal over time. It is synchronized with other timeseries views, and can be used to identify and analyze the sounds of an animal during an experiment."
 category: sanes_lab
-image: "https://user-images.githubusercontent.com/3679296/217880209-c5b07ca0-1170-48d5-8aa9-e77862ab54a2.png"
+image: "https://user-images.githubusercontent.com/3679296/217881831-00afdf53-f766-4016-ba5b-4b91f8252f96.png"
 ---
 
 # Audio spectrogram
@@ -24,5 +24,3 @@ Figure 1. Example audio spectrogram.
 </figcaption>
 </figure>
 <!--------------------------------------------------------------------------------------------->
-
-https://user-images.githubusercontent.com/3679296/217881831-00afdf53-f766-4016-ba5b-4b91f8252f96.png
